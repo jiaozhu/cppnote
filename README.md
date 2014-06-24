@@ -4,5 +4,5 @@
 
 ### 目录结构
 
-* chapter03 : 数据处理
-* chapter04 : 复合类型
+- chapter03 : [数据处理](https://github.com/jiaozhu/cppnote/tree/master/chapter03)
+- chapter04 : [复合类型](https://github.com/jiaozhu/cppnote/tree/master/chapter04)
